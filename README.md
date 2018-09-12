@@ -1,4 +1,4 @@
-# Kaleo Rails Engineer Candidate Interview Project
+# Cashwagon Rails Engineer Candidate Interview Project
 
 Thanks for taking the time to complete this exercise. We're excited that you're considering joining our amazing team.
 
